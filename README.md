@@ -16,8 +16,8 @@ Mam 13 lat i uwielbiam kodować. Od prostych stron internetowych po integracje z
 
 ## 📌 Moje wyróżnione projekty
 
-| Projekt | Opis | Tech Stack |
-|--------|------|------------|
+| Projekt | Opis |
+|--------|------|
 | [🤖 ChromeOSRoot](https://github.com/twoj-login/assistantbot) | Poradnik, jak zrootowac ChromeOS |
 ---
 
