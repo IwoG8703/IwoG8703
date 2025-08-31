@@ -3,7 +3,7 @@
 > 🇵🇱 Poniżej możesz przełączyć między polską a angielską wersją README  
 > 🇬🇧 Below you can switch between Polish and English versions of this README
 
-<details open>
+<details>
 <summary>🇵🇱 Wersja Polska</summary>
 
 ### 👋 Siemanero! Tu Iwo Gosecki (aka IwoG8703)
