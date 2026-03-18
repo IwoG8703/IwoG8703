@@ -29,7 +29,7 @@ Co robię w wolnym czasie?
 | 🔧 Nazwa | Opis |
 |--------|------|
 | [ChromeOSRoot](https://github.com/bun1a-dev/chromeosroot) | Jak zrootować Chromebooka i nie zrobić z niego cegły |
-| [CATT-Service](https://github.com/bun1a-dev/catt-service) | Jak castować dashbord Home Assistant na Nest Huba bez robienia rzeczy, których Google nie lubi  |
+| [CATT-Service](https://github.com/bun1a-dev/catt-service) | Jak castować dashboard Home Assistant na Nest Huba bez robienia rzeczy, których Google nie lubi  |
 
 #### 📬 Kontakt
 📧 gosecki.iwo@gmail.com  
