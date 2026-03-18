@@ -1,4 +1,4 @@
-# 👋 Siemanero! / Yo!
+# 👋 Siema! / Yo!
 
 > 🇵🇱 Poniżej możesz przełączyć między polską a angielską wersją README  
 > 🇬🇧 Below you can switch between Polish and English versions of this README
@@ -6,35 +6,34 @@
 <details>
 <summary>🇵🇱 Wersja Polska</summary>
 
-### 👋 Siemanero! Tu Iwo Gosecki (aka IwoG8703)
+### 👋 Siema! Tu Iwo (aka bun1a-dev)
 
 Mam 13 lat, koduję, rootuję, kombinuję.  
 Nie, to nie żart — mój Raspberry Pi wie więcej o moim domu niż niektórzy domownicy.
 
-💬 Co robię w wolnym czasie?
-- Flashuję telefony, żeby działały szybciej niż powinny 💥  
-- Rozmawiam z GPT, bo rozumie mnie lepiej niż niektóre apki 🤖  
+Co robię w wolnym czasie?
+- Flashuję telefony, żeby działały szybciej niż powinny
 - Tworzę automatyzacje w Home Assistant, żeby życie było jak z filmów Sci-Fi  
 - Piszę kod, który czasem działa za pierwszym razem (ale nie za często)  
-- **Nie gram w gry – ja tworzę rzeczy, przy których gry mogą się schować** 🎮🚫
+- **Nie gram w gry – ja tworzę rzeczy, przy których gry mogą się schować**
 
-#### 🧪 Moje supermoce
-- 💻 Python 🐍  
+#### Moje supermoce
+- 💻 Python i CPP
 - 🧠 OpenAI API  
-- 🛠️ HTML + CSS + Node.js  
+- 🛠️ HTML + CSS + JS
 - 📱 Android, TWRP, Magisk  
-- 🏠 Home Assistant
+- 🏠 Home Assistant i Linux
 
 #### 🔥 Projekty
 
 | 🔧 Nazwa | Opis |
 |--------|------|
-| [⚡ ChromeOSRoot](https://github.com/IwoG8703/chromeosroot) | Jak zrootować Chromebooka i nie zrobić z niego cegły |
-| [📱 Android Tweak Guide](https://github.com/IwoG8703/android-tweak-guide) | Root, ROMy i inne zabawy z Androidem |
+| [ChromeOSRoot](https://github.com/bun1a-dev/chromeosroot) | Jak zrootować Chromebooka i nie zrobić z niego cegły |
+| [CATT-Service](https://github.com/bun1a-dev/catt-service) | Jak castować dashbord Home Assistant na Nest Huba bez robienia rzeczy, których Google nie lubi  |
 
 #### 📬 Kontakt
 📧 gosecki.iwo@gmail.com  
-🛠️ Pingnij mnie, jeśli masz pytania o rooty, AI albo czemu światło zapala się o 3:00 🙃
+🛠️ Pingnij mnie, jeśli masz pytania o rooty albo czemu światło zapala się o 3:00 🙃
 
 _“Nie robię bugów. Tworzę funkcje testujące cierpliwość użytkownika.”_
 
@@ -43,35 +42,34 @@ _“Nie robię bugów. Tworzę funkcje testujące cierpliwość użytkownika.”
 <details>
 <summary>🇬🇧 English Version</summary>
 
-### 👋 Yo! I'm Iwo Gosecki (aka IwoG8703)
+### 👋 Yo! I'm Iwo (aka bun1a-dev)
 
 I'm 13, I code, root, and tinker.  
 No joke — my Raspberry Pi knows more about my house than the people who live in it.
 
-💬 What I do in my free time:
-- Flash phones to make them faster than they should be 💥  
-- Chat with GPT — it gets me better than most apps 🤖  
+What I do in my free time:
+- Flash phones to make them faster than they should be 
 - Automate everything with Home Assistant  
 - Write code that sometimes works on the first try (just not often)  
-- **I don't play games — I build things that games wish they were** 🎮🚫
+- **I don't play games — I build things that games wish they were**
 
-#### 🧪 My Superpowers
-- 💻 Python 🐍  
+#### My Superpowers
+- 💻 Python and C++
 - 🧠 OpenAI API  
-- 🛠️ HTML + CSS + Node.js  
+- 🛠️ HTML + CSS + JS 
 - 📱 Android, TWRP, Magisk  
-- 🏠 Home Assistant
+- 🏠 Home Assistant, Linux
 
 #### 🔥 Projects
 
-| 🔧 Name | Description |
+| Name | Description |
 |--------|-------------|
-| [⚡ ChromeOSRoot](https://github.com/IwoG8703/chromeosroot) | How to root your Chromebook without turning it into a brick |
-| [📱 Android Tweak Guide](https://github.com/IwoG8703/android-tweak-guide) | Rooting, ROMs and Android wizardry |
+| [ChromeOSRoot](https://github.com/bun1a-dev/chromeosroot) | How to root your Chromebook without turning it into a brick |
+| [CATT-Service](https://github.com/bun1a-dev/catt-service) | How to cast a HA dashboard to Nest Hub without doing things Google don't like |
 
 #### 📬 Contact
 📧 gosecki.iwo@gmail.com  
-🛠️ Ping me if you’ve got questions about root, AI, or why the lights turn on at 3am 🙃
+🛠️ Ping me if you’ve got questions about root or why the lights turn on at 3am 🙃
 
 _“I don’t make bugs. I create features that test user patience.”_
 
